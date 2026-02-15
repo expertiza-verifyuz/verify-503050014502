@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Verification</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body{
+margin:0;
+background:white;
+text-align:center;
+font-family:Arial;
+}
+img{
+width:100%;
+max-width:900px;
+}
+</style>
+</head>
+<body>
+<img src="verify-503050014502.jpg">
+</body>
+</html>
